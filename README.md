@@ -1,2 +1,2 @@
 # my_website
-This repo hosts the code for the website.
+This repo hosts the codes for the website.
